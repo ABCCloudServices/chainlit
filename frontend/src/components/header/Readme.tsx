@@ -24,7 +24,7 @@ export default function ReadmeButton() {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button id="readme-button2" variant="ghost">
+        <Button id="readme-button" variant="ghost">
           <Translator path="navigation.header.readme" />
         </Button>
       </DialogTrigger>
