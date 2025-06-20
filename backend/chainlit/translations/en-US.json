@@ -164,6 +164,7 @@
     "header": {
       "chat": "Chat",
       "readme": "Readme",
+      "readme2": "My Readme",
       "theme": {
         "light": "Light Theme",
         "dark": "Dark Theme",
